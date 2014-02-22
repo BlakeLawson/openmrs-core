@@ -62,3 +62,6 @@ The project tree is set up as follows:
   <td>The main maven file used to build and package OpenMRS</td>
  </tr>  
 </table>
+
+
+Modifying file to test commits and pushes
